@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include <string.h>
+#include <string>
 using namespace std;
 int stack[10001], top = -1;
 void push(int x) {
